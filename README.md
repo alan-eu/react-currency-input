@@ -1,3 +1,6 @@
+Forked to be able to include changes from https://github.com/jsillitoe/react-currency-input/pull/77
+Once those changes are published by the maintainer, we can go back to following the original package.
+
 # react-currency-input
 
 An ES2015 react component for currency. Supports custom decimal and thousand separators as well as precision.

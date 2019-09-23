@@ -1,5 +1,5 @@
 {
-  "name": "react-currency-input",
+  "name": "@alaneu/react-currency-input",
   "version": "1.3.7",
   "description": "React component for inputing currency amounts",
   "main": "lib/react-currency-input.cjs.js",
@@ -16,6 +16,9 @@
     "test": "mocha --compilers js:babel-register",
     "webpack": "webpack",
     "webpack-dev": "webpack-dev-server"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "repository": {
     "type": "git",
